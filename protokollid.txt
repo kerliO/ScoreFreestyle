@@ -1,0 +1,89 @@
+
+-------------------------------------
+Hindamislehti täidab kohtunik: Kerli
+2019-08-20 10:39:40.808577
+VÕISTLUSES OSALEVAD: 
+['LIDEWIJ HARTOG', 'EVA DUPONT', 'THEO FERMON', 'MANOEL SOARES', 'ROBIN KRIKKEN', 'NICOLAS GAMBIER']
+
+Võistleja: PIPPA VANIERSEL Hinded: 3.0, 5.0, 6.0
+Hinnete summa: 14.0
+Miinuseid kokku: 0
+Hinne kokku 14.0
+Tehtud trikid:'Raley', 'Tanglepass', 'Raley2wrapped'
+
+Võistleja: MAUREEN CASTELLE Hinded: 8.0, 5.0, 3.0
+Hinnete summa: 16.0
+Miinuseid kokku: 0
+Hinne kokku 16.0
+Tehtud trikid: 'BlindJudge', 'Tanglepass', 'Krypt'
+
+Võistleja: LIDEWIJ HARTOG Hinded: 9.0, 8.0, 3.0
+Hinnete summa: 20.0
+Miinuseid kokku: 0
+Hinne kokku 20.0
+Tehtud trikid:'BlindJudge3', '315', 'Krypt'
+
+Võistleja: EVA DUPONT Hinded: 8.0, 8.0, 3.0
+Hinnete summa: 19.0
+Miinuseid kokku: 0
+Hinne kokku 19.0
+Tehtud trikid: 'BlindJudge', '315', 'Raley'
+
+Võistleja: THEO FERMON: Katkestas 
+Hinne kokku 5.0
+
+Võistleja: MANOEL SOARES Hinded: 4.0, 7.0, 7.0
+Hinnete summa: 18.0
+Miinuseid kokku: 1
+Hinne kokku 17.0
+Tehtud trikid: 'SurfacePass', '313', 'Flat360'
+
+Võistleja: ROBIN KRIKKEN Hinded: 6.0, 8.0, 7.0
+Hinnete summa: 21.0
+Miinuseid kokku: 0
+Hinne kokku 21.0
+Tehtud trikid:'Raley2wrapped', '315', 'Flat360'
+
+Võistleja: NICOLAS GAMBIER: Katkestas 
+Hinne kokku -1
+
+ROUNDI LÕPP------------------------------
+
+ROUNDI VÕITSID
+['MAUREEN CASTELLE', 'LIDEWIJ HARTOG', 'MANOEL SOARES', 'ROBIN KRIKKEN']
+
+Võistleja: MAUREEN CASTELLE Hinded: 6.0, 3.0, 3.5
+Hinnete summa: 12.5
+Miinuseid kokku: 0
+Hinne kokku 12.5
+Tehtud trikid:'Raley2wrapped', 'Krypt', 'Kiteloop'
+
+Võistleja: LIDEWIJ HARTOG Hinded: 8.0, 4.0, 8.0
+Hinnete summa: 20.0
+Miinuseid kokku: 0
+Hinne kokku 20.0
+Tehtud trikid: 'BlindJudge', 'SurfacePass', 'BlindJudge'
+
+Võistleja: MANOEL SOARES Hinded: 6.0, 3.5, 6.0
+Hinnete summa: 15.5
+Miinuseid kokku: 0
+Hinne kokku 15.5
+Tehtud trikid:'Raley2wrapped', 'Kiteloop', 'Downloop2blind'
+
+Võistleja: ROBIN KRIKKEN: Katkestas 
+Hinne kokku 6.0
+
+Võistleja: LIDEWIJ HARTOG Hinded: 6.0, 6.0, 3.5
+Hinnete summa: 15.5
+Miinuseid kokku: 0
+Hinne kokku 15.5
+Tehtud trikid:'Flat180', 'Raley2wrapped', 'Kiteloop'
+
+Võistleja: MANOEL SOARES Hinded: 8.0, 4.0, 3.0
+Hinnete summa: 15.0
+Miinuseid kokku: 1
+Hinne kokku 14.0
+Tehtud trikid: 'BlindJudge', 'SurfacePass', 'Raley'
+
+VÕISTLUSE LÕPP------------------------------
+VÕITJA: LIDEWIJ HARTOG

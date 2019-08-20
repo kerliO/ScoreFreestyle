@@ -1,0 +1,15 @@
+Raley 3
+Krypt 3	
+Kiteloop 3.5
+SurfacePass 4
+Tanglepass 5	
+Raley2blind 6
+BlindJudge 8
+BlindJudge3 8
+Raley2wrapped 6
+313 7
+315 8
+Flat180 6
+Flat360 7	
+Downloop2blind 6
+S-bend 3.5
